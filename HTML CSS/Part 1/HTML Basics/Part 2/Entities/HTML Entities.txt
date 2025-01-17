@@ -1,0 +1,193 @@
+&#32; Space
+&#33; ! Exclamation mark
+&#34; " Quotation mark
+&#35; # Pound / hash
+&#36; $ Dollar sign
+&#37; % Percent sign
+&#38; & Ampersand
+&#39; ` Apostrophe
+&#40; ( Left bracket
+&#41; ) Right bracket
+&#42; * Asterisk
+&#43; + Plus
+&#44; , Comma
+&#45; - Hyphen
+&#46; . Period
+&#47; / Forward Slash
+&#48; 0 Zero
+&#49; 1 One
+&#50; 2 Two
+&#51; 3 Three
+&#52; 4 Four
+&#53; 5 Five
+&#54; 6 Six
+&#55; 7 Seven
+&#56; 8 Eight
+&#57; 9 Nine
+&#58; : Colon
+&#59; ; Semicolon
+&#60; < Less than
+&#61; = Equals
+&#62; > Greater than
+&#63; ? Question mark
+&#64; @ "At" symbol
+HTML Character Entities 1 (cont)
+&#65; A Upper case A
+&#66; B Upper case B
+&#67; C Upper case C
+&#68; D Upper case D
+&#69; E Upper case E
+&#70; F Upper case F
+&#71; G Upper case G
+&#72; H Upper case H
+&#73; I Upper case I
+&#74; J Upper case J
+&#75; K Upper case K
+&#76; L Upper case L
+&#77; M Upper case M
+&#78; N Upper case N
+&#79; O Upper case O
+&#80; P Upper case P
+&#81; Q Upper case Q
+&#82; R Upper case R
+&#83; S Upper case S
+&#84; T Upper case T
+&#85; U Upper case U
+&#86; V Upper case V
+&#87; W Upper case W
+&#88; X Upper case X
+&#89; Y Upper case Y
+&#90; Z Upper case Z
+&#91; [ Left square bracket
+&#92; \ Backslash
+&#93; ] Right square bracket
+&#94; ^ Caret
+&#95; _ Underscore
+&#96; ` Single quote / backtick
+&#97; a Lower case a
+&#98; b Lower case b
+&#99; c Lower case c
+&#100; d Lower case d
+&#101; e Lower case e
+&#102; f Lower case f
+&#103; g Lower case g
+&#104; h Lower case h
+&#105; i Lower case i
+&#106; j Lower case j
+&#107; k Lower case k
+&#108; l Lower case l
+&#109; m Lower case m
+&#110; n Lower case n
+&#111; o Lower case o
+&#112; p Lower case p
+&#113; q Lower case q
+&#114; r Lower case r
+&#115; s Lower case s
+&#116; t Lower case t
+&#117; u Lower case u
+&#118; v Lower case v
+&#119; w Lower case w
+&#120; x Lower case x
+&#121; y Lower case y
+&#122; z Lower case z
+&#123; { Left curly brace
+&#124; | Pipe
+&#125; } Right curly brace
+&#126; ~ Tilde
+&#127; Delete
+&#160; Non-breaking space
+&#161; ¡ Inverted exclamation mark
+&#162; ¢ Cent symbol
+&#163; £ Pound symbol
+&#164; ¤ Currency symbol
+&#165; ¥ Yen symbol
+&#166; ¦ Broken pipe
+&#167; § Section symbol
+&#168; ¨ Umlaut
+&#169; © Copyright
+&#170; ª Feminine ordinal
+&#171; « Double-left arrow
+&#172; ¬ "Not" symbol
+&#173; Soft hyphen
+&#174; ® Registered
+&#175; ¯ Overline
+&#176; ° Degree symbol
+&#177; ± Plus or minus
+&#178; ² Squared
+&#179; ³ Cubed
+&#180; ´ Acute accent
+&#181; µ Micro symbol
+&#182; ¶ Paragraph symbol
+&#183; · Middle dot
+&#184; ¸ Cedilla
+&#185; ¹ Superscript 1
+&#186; º Masculine ordinal
+&#187; » Double-right arrow
+&#188; ¼ One quarter
+&#189; ½ One half
+&#190; ¾ Three quarters
+&#191; ¿ Inverted question mark
+&#192; À A with grave
+&#193; Á A with acute
+&#194; Â A with circumflex
+&#195; Ã A with tilde
+&#196; Ä A with umlaut
+&#197; Å A with ring
+&#198; Æ AE
+&#199; Ç C with cedilla
+&#200; È E with grave
+&#201; É E with acute
+&#202; Ê E with circumflex
+&#203; Ë E with umlaut
+&#204; Ì I with grave
+&#205; Í I with acute
+&#206; Î I with circumflex
+&#207; Ï I with umlaut
+&#208; Ð ETH
+&#209; Ñ N with tilde
+&#210; Ò O with grave
+&#211; Ó O with acute
+&#212; Ô O with circumflex
+&#213; Õ O with tilde
+&#214; Ö O with umlaut
+&#215; × Multiply symbol
+&#216; Ø O with slash
+&#217; Ù U with grave
+&#218; Ú U with acute
+&#219; Û U with circumflex
+&#220; Ü U with umlaut
+&#221; Ý Y with acute
+&#222; Þ THORN
+&#223; ß Sharp S
+&#224; à a with grave
+&#225; á a with acute
+&#226; â a with circumflex
+&#227; ã a with tilde
+&#228; ä a with umlaut
+&#229; å a with ring
+&#230; æ ae
+&#231; ç c with cedilla
+&#232; è e with grave
+&#233; é e with acute
+&#234; ê e with circumflex
+&#235; ë e with umlaut
+&#236; ì i with grave
+&#237; í i with acute
+&#238; î i with circumflex
+&#239; ï i with umlaut
+&#240; ð ETH
+&#241; ñ n with tilde
+&#242; ò o with grave
+&#243; ó o with acute
+&#244; ô o with circumflex
+&#245; õ o with tilde
+&#246; ö o with umlaut
+&#247; ÷ Divide symbol
+&#248; ø o with slash
+&#249; ù u with grave
+&#250; ú u with acute
+&#251; û u with circumflex
+&#252; ü u with umlaut
+&#253; ý y with acute
+&#254; þ THORN
+&#255; ÿ y with umlaut
