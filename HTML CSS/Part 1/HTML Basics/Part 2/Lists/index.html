@@ -1,0 +1,55 @@
+<!-- 
+IN HTML THERE ARE THREE TYPES OF LIST ELEMENTS: ul, ol, dl
+THE MOST COMMONLY USED TYPE IS ul AKA UNORDERED LIST-
+MOSTLY USED FOR NAVIGATION MENUS, IMAGES, PRODUCTS IN A SHOPPING CART ETC.
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      /* USE list-style-type TO CHANGE OR REMOVE BULLET POINTS*/
+      ul {
+        list-style-type: none;
+      }
+    </style>
+  </head>
+  <body>
+    <ul>
+      <li>About Me</li>
+      <!-- YOU CAN ALSO NEST LIST TO MAKE A HEIRARCHY -->
+      <!-- YOU CAN QUICKLY GENERATE MARKUP BY DOING li*3 -->
+      <li>
+        Courses
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+        </ul>
+      </li>
+      <li>Subscribe</li>
+      <li>Contact Me</li>
+    </ul>
+    <!-- YOU CAN MAKE AN ORDERED LIST WHERE THE ORDER OF ITEMS MATTER -->
+    <!-- YOU CAN DO THIS QUICKLY BY DOING ol>li*3 -->
+    <ol>
+      <li>Preheat the oven.</li>
+      <li>Place the ingredients on the crust.</li>
+      <li>Put the pizza in the oven for 20 minuets.</li>
+    </ol>
+    <!-- DESCRIPTION LISTS ARE USED FOR IMPLEMENTING GLOSSARIES OR DISPLAYING METADATA -->
+    <dl>
+      <dt>HTML</dt>
+      <dd>Hypertext Markup Langauge</dd>
+      <dt>CSS</dt>
+      <dd>Cascading Stylesheets</dd>
+      <dt>Author</dt>
+      <dd>Brandon McKinney</dd>
+      <dt>Skills</dt>
+      <dd>C#</dd>
+      <dd>Python</dd>
+    </dl>
+  </body>
+</html>
