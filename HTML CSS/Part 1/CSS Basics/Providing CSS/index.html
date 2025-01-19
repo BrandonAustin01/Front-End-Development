@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <!-- TO LINK AN EXTERNAL STYLESHEET USE THE link ELEMENT -->
+    <!-- THE RELATIONSHIP ATTRIBUTE OR rel DETERMINES THE TYPE OF RESOURCE WE ARE LINKING. -->
+    <!-- THE SECOND ATTRIBUTE OR href IS THE RELATIVE OR ABSOLTUE URL OF THE EXTERNAL STYLESHEET  -->
+    <link rel="stylesheet" href="style.css" />
+    <!-- THE STYLE ELEMENT HERE WILL ALWAYS OVERRIDE THE RULES DEFINED IN AN EXTERNAL STYLSHEET -->
+    <style>
+      p {
+        color: black;
+      }
+
+      #second {
+        color: blueviolet;
+        font-weight: bolder;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- IF YOU ONLY WANT TO STYLE A SINGLE ELEMENT, EVERY HTML ELEMENT HAS A STYLE ATTRIBUTE -->
+    <!-- THIS IS CALLED AN INLINE STYLE (AVOID DOING THIS AS MUCH AS POSSIBLE)-->
+    <p style="color: green; font-weight: bold">Lorem ipsum dolor sit amet.</p>
+    <!-- A BETTER WAY OF DOING THIS IS BY GIVING THIS ELEMENT A UNIQUE INDENTIFIER -->
+    <p id="second">Lorem ipsum dolor sit amet.</p>
+    <p>Lorem ipsum dolor sit amet.</p>
+  </body>
+</html>

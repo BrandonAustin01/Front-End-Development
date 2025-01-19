@@ -1,3 +1,14 @@
+• The <head> section is used to provide information about a webpage.
+
+• The <p> element is used to represent a paragraph. A paragraph can be one or many
+lines of text.
+
+• The <em> element is used to define emphasized text. By default, emphasized text is
+displayed in italic.
+
+• The <strong> element is used to represent important content. Browsers, by default,
+render strong content in bold.
+
 • The <i> and <b> elements are considered deprecated because HTML should not be
 used for styling. That’s the role of CSS.
 
