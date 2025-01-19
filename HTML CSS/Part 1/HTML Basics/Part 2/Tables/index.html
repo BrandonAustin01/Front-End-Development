@@ -1,0 +1,64 @@
+<!-- TABLES SHOULD ONLY BE USED TO SHOW TABULAR DATA -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      table,
+      td,
+      th {
+        /* BORDER HAS THREE VALUES.
+        1. THICKNESS
+        2. STYLE
+        3. COLOR
+        */
+        border: 1px, solid, gray;
+        /* USE BORDER COLLAPSE TO COLLAPSE NEIGHBORING BORDERS */
+        border-collapse: collapse;
+        /* USE padding TO ADD MORE SPACE AROUND THE DATA*/
+        padding: 5px;
+      }
+      tfoot {
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <!-- COLSPAN IS SHORT FOR COLUMN SPAN, IT DETEMINES HOW MANU COLUMNS THIS CELL SHOULD EXPAND TO -->
+          <th colspan="2">Expenses</th>
+        </tr>
+        <tr>
+          <!-- TO DEFINE A TABLE HADER CELL USE th - Table Header Cell -->
+          <th>Category</th>
+          <th>Amount</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- TO DEFINE A ROW USE THE tr - Table Row  ELEMENT -->
+        <tr>
+          <!-- IN THE tr ELEMENT YOU CAN HAVE ONE OR MORE CELLS CALLED DATA AND HEADER CELLS  -->
+          <!-- TO DEFINE A DATA CELL USE THE td - Table Data Cell ELEMENT-->
+          <td>Marketing</td>
+          <td>$100</td>
+        </tr>
+
+        <tr>
+          <td>Accounting</td>
+          <td>$200</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Total</th>
+          <th>$300</th>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
