@@ -1,2 +1,5 @@
 # Learning Front-End Development!!
-**Welcome to my journey!**
+
+## Step 1
+
+### Learning HTML & CSS Basics
