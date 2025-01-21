@@ -1,3 +1,44 @@
+/*
+SELECTORS
+* TYPE
+* ID
+* CLASS
+* ATTRIBUTE
+*/
+
+/*= TYPE SELECTOR =*/
 body {
     margin: 10px;
+}
+
+/* WHENEVER THE SELECTOR IS STARTED WITH A #, THAT MEANS WE ARE SELECTING WITH AN ID  */
+#products {
+
+}
+
+/* WHENEVER THE SELECTOR IS STARTED WITH A PERIOD, THAT MEANS WE ARE SELECTING A CLASS  */
+.product {
+
+}
+
+/* IF YOU WANT TO SELECT ALL ANCHORS WITH THE TARGET ATTRIBUTE*/
+/* CODE LIKE THIS IS OFTEN FRAGILE, ANY CHANGES IN THE LINK COULD CAUSE ISSUES */
+a[target="_blank"] {
+
+}
+/* INSTEAD YOU CAN CHECK FOR THE EXISTANCE OF WORDS */
+a[href*="google"]{
+    color: orange;
+}
+/* YOU CAN ALSO CHECK IF THE ATTRIBUTE STARTS WITH A GIVEN VALUE */
+a[href^="https"] {
+    color: aqua;
+}
+/* TO CHECK IF THE ATTRIBUTE ENDS WITH A GIVEN VALUE */
+a[href$=".com"] {
+    color: blueviolet;
+}
+/* YOU CAN COMBINE MULTIPLE CONDITIONS */
+a[href^="https"][href$=".com"] {
+    color: rgb(253, 19, 253);
 }

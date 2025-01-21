@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- YOU CAN SELECT ELEMENTS BASED ON THEIR RELATIONSHIP WITH OTHER ELEMENTS-->
+    <section id="products">
+      <!-- INSTEAD OF GIVING THE p ELEMENT AN ID OR A CLASS -->
+      <!-- WE CAN START FROM THE SECTION ELEMENT BECAUSE IT ALREADY HAS AN ID AND THEN SELECT THE p ELEMENT -->
+      <!-- WITH THIS APPROACH WE DONT HAVE TO DEFINE AN ID OR A CLASS FOR THE p ELEMENT, MAKING THE MARKUP CLEANER -->
+      <p>Lorem ipsum dolor sit amet.</p>
+      <article>
+        <p>Lorem ipsum dolor sit amet.</p>
+      </article>
+    </section>
+    <!-- IF IT WANTED TO STYLE THIS ELEMENT, WHICH IS A DIRECT SIBLING FORM THE SECTION ELEMENT -->
+    <!-- GO TO STLYE SHEET -->
+    <p>Lorem ipsum dolor sit amet.</p>
+  </body>
+</html>
