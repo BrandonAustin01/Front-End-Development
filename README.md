@@ -8,7 +8,7 @@ I am currently taking the [CodeWithMosh](https://codewithmosh.com) Front-end Dev
 
 ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- Ultimate HTML & CSS: Part 1 ✅
+- Ultimate HTML & CSS: Part 1
 - Ultimate HTML & CSS: Part 2
 - Ultimate HTML & CSS: Part 3
 
